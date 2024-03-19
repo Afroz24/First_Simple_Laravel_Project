@@ -78,6 +78,7 @@
     </div>
 
     <div>
+        {{-- Hi this is view file --}}
 
         <h2> Go to Home Page : <button> <a href=" {{ route('welcome') }} "> Click Here</a> </button> </h2>
 
