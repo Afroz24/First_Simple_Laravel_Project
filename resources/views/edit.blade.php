@@ -1,6 +1,6 @@
 
 <center>
-<h1> Edit Data </h1>
+<h1>-- Edit Data --</h1>
 
 <form method="POST" action=" {{ route('updatepage',['id'=>$id]) }} ">
     @csrf

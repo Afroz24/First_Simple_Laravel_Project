@@ -48,6 +48,8 @@
     <center>
         <h1> Want to go to Computer World </h1>
         <a href=" {{ route('createform') }}"> <button> Click To GO </button></a>
+        <br><a href=" {{ route('createform') }}"> <button style="background: green;color:white"> Click To GO </button></a>
+
     </center>
     <br> <br>
 
